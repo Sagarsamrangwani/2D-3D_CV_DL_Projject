@@ -1,0 +1,9 @@
+imageio 
+jupyter-client 
+jupyter-core 
+matplotlib 
+numpy 
+opencv-python 
+pandas 
+scikit-learn 
+tensorflow 
